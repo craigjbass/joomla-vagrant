@@ -1,0 +1,5 @@
+http/*
+!http/.PLACEHOLDER
+.idea
+.vagrant
+.sessions
